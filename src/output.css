@@ -870,6 +870,11 @@ video {
   color: rgb(96 138 245 / var(--tw-text-opacity, 1));
 }
 
+.text-\[\#172774\] {
+  --tw-text-opacity: 1;
+  color: rgb(23 39 116 / var(--tw-text-opacity, 1));
+}
+
 @media (min-width: 640px) {
   .sm\:bottom-\[-120px\] {
     bottom: -120px;
